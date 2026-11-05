@@ -1,4 +1,4 @@
-v¿# Gestión de Trámites de Tránsito (MVP)
+# Gestión de Trámites de Tránsito (MVP)
 
 Prototipo (Producto Mínimo Viable) de una aplicación de escritorio para Windows que permite registrar
 licencias (expedición inicial y refrendación), trámites vehiculares, seguros y revisiones tecnomecánicas,
